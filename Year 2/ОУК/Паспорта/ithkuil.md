@@ -35,3 +35,4 @@ Penultimate stress (stressing syllable-before-last) is unmarked, non-penultimate
 |**low**|ä||   |||a|||
 ||
 ||||||||||
+Phonotactics: https://www.ithkuil.net/new_ithkuil_phonotaxis.pdf
