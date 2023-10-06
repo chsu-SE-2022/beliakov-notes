@@ -1,3 +1,3 @@
 name: ithkuil
 author: John Quijada
-type:
+type: experimental engineered conlang
