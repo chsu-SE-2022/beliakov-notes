@@ -1,0 +1,15 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-periwinkle-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@h1-text-color-lt": "var(--h1-text-color-custom-lt)",
+  "obsidian-prism-theme@@h1-text-color-custom-lt": "#974E4E",
+  "obsidian-prism-theme@@h2-text-color-custom-lt": "#C4A96C",
+  "obsidian-prism-theme@@h3-text-color-custom-lt": "#6CB65A",
+  "obsidian-prism-theme@@h2-text-color-lt": "var(--h2-text-color-custom-lt)",
+  "obsidian-prism-theme@@h3-text-color-lt": "var(--h3-text-color-custom-lt)",
+  "obsidian-prism-theme@@h4-text-color-custom-lt": "#58A8AF",
+  "obsidian-prism-theme@@h5-text-color-custom-lt": "#60459B",
+  "obsidian-prism-theme@@h4-text-color-lt": "var(--h4-text-color-custom-lt)",
+  "obsidian-prism-theme@@h5-text-color-lt": "var(--h5-text-color-custom-lt)",
+  "obsidian-prism-theme@@file-line-width": 1005
+}
