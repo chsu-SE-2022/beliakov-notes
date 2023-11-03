@@ -36,3 +36,19 @@ Penultimate stress (stressing syllable-before-last) is unmarked, non-penultimate
 ||
 ||||||||||
 Phonotactics: https://www.ithkuil.net/new_ithkuil_phonotaxis.pdf
+# Grammar
+## Affixes
+## Gradient types
+Gradients of newness, familiarity, fluctiation, repetition frequency, effectiveness, relative time, timeliness
+## Adjuncts
+### Affixes
+Single-affix, multi-affix
+### Modular adjuncts
+Consists of 2-4 parts
+Part 1 - what adjunct applies to
+Part 2 - Valence/Phase/Level/Effect + Mood/Case-scope OR Aspect+Mood/Case-scope
+Part 3 = Part 2
+Part 4 depends on Part 2, 3 and stress: **Aspect** or **Valence/Phase/Level/Effect** or **Specialized Scope of the Adjunct**
+## Register Adjuncts
+Narrative, Discursive (quote, direct speech), Parenthetical (parenthesis), Specificative (Proper name of referent), Exeplificative (example), Cogitant (silent thoughts), Carrier-end
+## Suppletive Adjuncts
