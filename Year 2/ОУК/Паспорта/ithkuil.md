@@ -52,3 +52,4 @@ Part 4 depends on Part 2, 3 and stress: **Aspect** or **Valence/Phase/Level/Effe
 ## Register Adjuncts
 Narrative, Discursive (quote, direct speech), Parenthetical (parenthesis), Specificative (Proper name of referent), Exeplificative (example), Cogitant (silent thoughts), Carrier-end
 ## Suppletive Adjuncts
+# Vocabular
