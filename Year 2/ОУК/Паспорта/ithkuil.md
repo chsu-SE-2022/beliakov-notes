@@ -63,7 +63,7 @@ Partitioned - \[default C$_A$\]-Stem2-‘fox’-GEO$_{2}$/2-REA$_{1}$/9-ADM   
 Translated - _‘Be careful, your fork is actually a fennec.’_
 
 # Syntax
-The default word order for Ithkuil is verb-initial, after which a formative with semantic focus is placed, and the semantic topic is placed in sentence-initial position. However, this rule doesn't apply to 
+The default word order for Ithkuil is verb-initial, after which a formative with semantic focus is placed, and the semantic topic is placed in sentence-initial position. However, there are many specific rules depending on the kind of conversation
 # Morphology
 ## Basic morphology
 Every word in Ithkuil consists of these slots:
@@ -97,4 +97,10 @@ Narrative, Discursive (quote, direct speech), Parenthetical (parenthesis), Speci
 These adjuncts imply case-scope information
 #### Bias adjuncts
 These adjuncts operate like interjections and establish a tone the speaker has towards the topic of discussion
-# Sociolinguistic characteristics
+# Sociolinguistic and historic characteristics
+Ithkuil is mostly influenced by the idea of systematization of grammatical concepts to precisely express information, something natural languages generally cannot do. Ithkuil tries to take best parts of natural languages while tying them to this idea
+# Developed levels
+Ithkuil is developed on all levels, as it has its own morphology, grammar, syntax rules and also a reading and writing system
+# Visual representation
+![](Pasted%20image%2020231115003708.png)
+Perfectly organised huge library, where you can see what you need at any point in time if you want to
