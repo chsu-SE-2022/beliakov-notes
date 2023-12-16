@@ -15,6 +15,7 @@ fn main() {
     // Creating vector of nail distances
     let mut nails = Vec::new();
     let file = fs::read_to_string("input.txt").unwrap();
+    let file = file.trim();
     let lines = file.lines();
     for line in lines {
         nails.push(line.trim().parse::<usize>().unwrap());
@@ -31,17 +32,11 @@ fn main() {
             //  8 & (1 << j) is true for j = 8
             // 15 & (1 << j) is true for j = 1, 2, 4, 8
             if i & (1 << j) != 0 {
-                sum += nail;
-                if combination.contains(&j) {
-                    sum += rope_cut;
-                }
-                else {
-                    sum += 2 * rope_cut;
-                }
+                sum += nail + 2 * rope_cut;
                 combination.push(j+1);
             }
         }
-        if sum <= rope_length {
+        if sum == rope_length {
             combinations.push(combination);
         }
     }
