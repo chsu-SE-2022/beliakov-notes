@@ -20,7 +20,7 @@ fn main() {
     println!("input matrix: ");
     for i in &input_matrix{
         for j in i {
-            print!("{:<4}", j);
+            print!("{:<5}", j);
         }
         println!();
     }
@@ -32,16 +32,16 @@ fn main() {
     s.reverse();
     for i in s {
         for j in i {
-            print!("{:<4}", j);
+            print!("{:<5}", j);
         }
         println!();
     }
     // sum_matrix.reverse();
-    let path_matrix = fill_path(x, y, &sum_matrix);
+    let path_matrix = fill_path(x, y, &sum_matrix, &input_matrix);
     println!("Path matrix: ");
     for i in &path_matrix {
         for j in i {
-            print!("{:<3}", j);
+            print!("{:<5}", j);
         }
         println!();
     }
@@ -86,7 +86,7 @@ fn fill_sum(x: usize, y: usize, input: &[Vec<i32>]) -> Vec<Vec<i32>> {
     }
     sum_matrix
 }
-fn fill_path(x: usize, y: usize, sum_matrix: &Vec<Vec<i32>>) -> Vec<Vec<String>> {
+fn fill_path(x: usize, y: usize, sum_matrix: &Vec<Vec<i32>>, input: &Vec<Vec<i32>>) -> Vec<Vec<String>> {
     let mut path_matrix = vec![vec!["0".to_string(); x]; y];
 
     let mut max_top = i32::MIN;
@@ -101,7 +101,7 @@ fn fill_path(x: usize, y: usize, sum_matrix: &Vec<Vec<i32>>) -> Vec<Vec<String>>
     }
     // println!("Start: {}", sum_matrix[path_y][path_x]);
     // println!("x: {path_x}, y: {path_y}");
-    path_matrix[path_y][path_x] = max_top.to_string();
+    path_matrix[path_y][path_x] = input[path_y][path_x].to_string();
     while path_y != 0 {
         let mut down_over_pos = (10, 10);
         let down_over= match path_y.checked_sub(2) {
@@ -153,9 +153,8 @@ fn fill_path(x: usize, y: usize, sum_matrix: &Vec<Vec<i32>>) -> Vec<Vec<String>>
             path_y = down_left_pos.0;
             path_x = down_left_pos.1;
         }
-        // println!("x: {path_x}, y: {path_y}");
-        // path_matrix[path_y][path_x] = "\x1b[32m█\x1b[0m";
-        path_matrix[path_y][path_x] = sum_matrix[path_y][path_x].to_string();
+        // path_matrix[path_y][path_x] = sum_matrix[path_y][path_x].to_string();
+        path_matrix[path_y][path_x] = input[path_y][path_x].to_string();
     }
     path_matrix.reverse();
     path_matrix
