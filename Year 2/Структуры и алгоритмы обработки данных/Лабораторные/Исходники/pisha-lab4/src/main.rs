@@ -28,7 +28,7 @@ fn main() {
         let mut combination = Vec::new();
         for (j, nail) in nails.iter().enumerate() {
             // Checking i & (1 << j) helps us get all the combinations
-            //  3 & (1 << j) is true for j = 1, 2
+            //  3 & (1 << j) is true for j = 1, 2                
             //  8 & (1 << j) is true for j = 8
             // 15 & (1 << j) is true for j = 1, 2, 4, 8
             if i & (1 << j) != 0 {
