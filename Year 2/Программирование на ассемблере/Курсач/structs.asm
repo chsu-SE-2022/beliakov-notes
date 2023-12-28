@@ -37,7 +37,7 @@ start:
         CMP CX, 0               ; false => check CX != 0
         JA iterate              ; true => next iteration
         JMP stop                ; false => stop
-        check_color:            ; weight correct => check color
+    check_color:                ; weight correct => check color
         XOR DX, DX              ; empty DX
         MOV DX, Kbs.color[BX]   ; DX = i'th kb color
         CMP DX, 33              ; DX == 33
