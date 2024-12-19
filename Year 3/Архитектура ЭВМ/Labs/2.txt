@@ -1,0 +1,32 @@
+# Prep
+## Zero out DL/DR
+y28
+y30
+## Zero out P0
+y14
+# Check if B is negative
+## Load Bx into B
+y1, y3
+## LShift B, if DL = 1 - quit
+y6, y8, y18, y25; x2, 1, m1
+# Convert B to Aux code
+## Reload Bx into B
+y1, y3
+## Invert B
+y7, y8, y16, y25
+y27, y3
+## Increment P0
+y15
+## Add 1 to B
+y6, y8, y16, y25
+y27, y3
+# Subtract A from B
+## Load Ax into A
+m1: y0, y2
+## A - B, load to A
+y4, y6, y9, y16, y24
+y26, y2
+# Convert to normal
+y4, y8, y16, y24
+y26, y2
+m2: y21

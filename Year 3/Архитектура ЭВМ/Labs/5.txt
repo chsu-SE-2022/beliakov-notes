@@ -1,0 +1,60 @@
+; Declare an array
+rd #40		; Initial array address = 40
+wr 30		; R30 stores initial array address
+; Declare k - amount of iterations
+rd #10		; Amount of iterations = 10
+wr 31		; R31 stores the amount of iterations
+; Declare S - sum
+rd #0		; Sum starts from 0
+wr 32		; R32 stores the sum
+; Declare C - value of C1
+rd @30		; Acc = first element
+wr 33		; R33 stores the first element
+; If current element = first element, increment sum
+m1: rd 33	; Acc = C1
+sub @30		; Acc -= current array element
+jnz 14		; if Acc != 0, goto shift array
+rd 32
+add #1
+wr 32		; R32 = current sum
+; Shift array by 1
+rd 30		; Acc = array index
+add #1		; Array index += 1
+wr 30		; R30 = current array index
+; Decrement iteration count
+rd 31		; Acc = remaining iterations
+sub #1		; Amount of iterations -= 1
+wr 31		; R31 = remaining iterations
+; If loop didn't end, goto
+jnz m1		; if Acc != 0, jump to M1
+rd 32		; Acc = r32
+out			; OR = Acc
+halt		; Halt
+____________________________
+
+; Declare an array
+rd #40		; Initial array address = 40
+wr 30		; R30 stores initial array address
+; Declare k - amount of iterations
+rd #10		; Amount of iterations = 10
+wr 31		; R31 stores the amount of iterations
+; Declare S - sum
+rd #0		; Sum starts from 0
+wr 32		; R32 stores the sum
+; Add current element to sum
+m1: rd 32	; Acc = current sum
+add @30		; Acc += current array element
+wr 32		; R32 = current sum
+; Shift array by 1
+rd 30		; Acc = array index
+add #1		; Array index += 1
+wr 30		; R30 = current array index
+; Decrement iteration count
+rd 31		; Acc = remaining iterations
+sub #1		; Amount of iterations -= 1
+wr 31		; R31 = remaining iterations
+; If loop didn't end, goto
+jnz m1		; if Acc != 0, jump to M1
+rd 32		; Acc = r32
+out			; OR = Acc
+halt		; Halt
