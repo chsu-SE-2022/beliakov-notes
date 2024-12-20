@@ -1,0 +1,43 @@
+in				; load IR
+wr 030			; to R30
+sub #50			; res = R30 - a, a = 50
+js 10			; if res < 0, goto second operation
+rd 030			; Read R30 to Acc
+add #2			; Acc += 2
+wr 031			; Write Acc to R31
+mul 31			; Acc = R31^2
+div #15			; Acc = R31 / 15
+jmp 16 			; goto END
+rd 030			; Read R30 (x)
+wr 032			; Write x to R32
+add #3			; x += 3
+wr 031			; Write to R31
+mul 31			; R31 = x^2
+div 32 			; R31 = R31 / R32
+out				; OR = Acc
+hlt				; Halt
+
+------------------------------
+
+in				; load IR
+wr 30			; ..to R30
+sub #50			; R30 - 16
+js 010			; if ^ is <0, goto second operation
+rd 30			; Read R30
+sub #11			; x = x - 11
+wr 31			; R31 = Acc
+mul 31			; Acc = Acc * R31 (x^2)
+sub #125		; Acc = Acc - 125
+jmp 020			; goto end
+rd 30			; Read R30 to Acc
+mul 30			; Acc = Acc * R30
+wr 31			; R31 = Acc
+rd 30			; Read R30 to Acc
+mul #72			; Acc = Acc * 72
+add 31			; Acc += R31
+adi 106400		; Acc = Acc + (-6400)
+				; (first number is the sign)
+divi 100168		; R30 = R30 / (-168)
+				; (first number is the sign)
+out				; load Acc to OR
+hlt				; halt
