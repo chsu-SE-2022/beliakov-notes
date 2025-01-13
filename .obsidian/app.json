@@ -3,10 +3,10 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 90
   },
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
