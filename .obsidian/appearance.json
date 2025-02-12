@@ -5,7 +5,7 @@
   "baseFontSize": 23,
   "nativeMenus": false,
   "textFontFamily": "JetBrainsMono Nerd Font,Inter",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font,Fira Code",
+  "monospaceFontFamily": "Iosevka Nerd Font,JetBrainsMono Nerd Font,Fira Code",
   "enabledCssSnippets": [
     "width"
   ]
