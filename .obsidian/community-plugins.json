@@ -7,10 +7,10 @@
   "obsidian-functionplot",
   "dataview",
   "obsidian-icon-folder",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-charts",
   "hard-breaks",
   "helix",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-excalidraw-plugin"
 ]
