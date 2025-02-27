@@ -8,6 +8,6 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true
 }
