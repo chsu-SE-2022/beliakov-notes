@@ -9,5 +9,7 @@
     "downscalePercent": 90
   },
   "useMarkdownLinks": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./Assets"
 }
