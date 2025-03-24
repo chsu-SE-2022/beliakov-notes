@@ -39,5 +39,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-mauve",
-  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-blue"
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-blue",
+  "anuppuccin-theme-settings@@anp-preview-width-pct": 80,
+  "anuppuccin-theme-settings@@file-line-width": 1000
 }
