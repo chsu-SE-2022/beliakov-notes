@@ -4,9 +4,10 @@
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 24,
   "nativeMenus": false,
-  "textFontFamily": "JetBrainsMono Nerd Font,Inter",
+  "textFontFamily": "Iosevka Nerd Font,JetBrainsMono Nerd Font,Inter",
   "monospaceFontFamily": "Iosevka Nerd Font,JetBrainsMono Nerd Font,Fira Code",
   "enabledCssSnippets": [
     "width"
-  ]
+  ],
+  "interfaceFontFamily": "Iosevka Nerd Font"
 }
