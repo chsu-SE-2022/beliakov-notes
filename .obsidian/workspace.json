@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Java/Spring.md",
+                "file": "Year 4/Сетевые ОС/02. Виртуализация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "02. Виртуализация"
             }
           },
           {
@@ -264,8 +264,10 @@
   },
   "active": "7070db1873fd6bc4",
   "lastOpenFiles": [
-    "Year 3/Java/Многопоточность.md",
+    "Year 4/Сетевые ОС/01. Active Directory.md",
+    "Year 4/Сетевые ОС/02. Виртуализация.md",
     "Year 3/Java/Spring.md",
+    "Year 3/Java/Многопоточность.md",
     "Year 3/Java/Assets/Pasted image 20250911141428.png",
     "Year 3/Java/Assets",
     "Year 3/Java/01.Java.md",
@@ -288,7 +290,6 @@
     "Year 4/Компьютерные сети",
     "Year 3/Архитектура ЭВМ/03..md",
     "Year 3/Архитектура ЭВМ/02..md",
-    "Year 4/Сетевые ОС/01. Active Directory.md",
     "Year 4/Сетевые ОС/00. Введение.md",
     "Year 4/Сетевые ОС",
     "Year 3/Java/Потоки.md",
