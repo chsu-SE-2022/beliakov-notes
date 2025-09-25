@@ -16,7 +16,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "../",
+  "basePath": "./",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
