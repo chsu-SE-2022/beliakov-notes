@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Java/Spring.md",
+                "file": "Year 4/Старостаты/01. 25.09.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "01. 25.09.2025"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Теория автоматов и формальных языков/Зачёт.md",
+                "file": "Year 4/Старостаты/01. 25.09.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Зачёт"
+              "title": "Outline of 01. 25.09.2025"
             }
           },
           {
@@ -264,13 +264,15 @@
   },
   "active": "7070db1873fd6bc4",
   "lastOpenFiles": [
+    "Year 3/Java/Spring.md",
+    "Year 4/Старостаты/01. 25.09.2025.md",
+    "Year 4/Старостаты",
     "Year 3/Java/Потоки.md",
     "Year 4/Компьютерные сети/04. Топология локальных сетей.md",
     "Year 3/Проектирование баз данных/04..md",
     "Year 4/Проектирование БД/00. Введение.md",
     "Year 4/Мобильная разработка/Курсовые.md",
     "Year 4/Мобильная разработка/00. Введение.md",
-    "Year 3/Java/Spring.md",
     "Year 4/Спецификация и архитектура ПО/02. Этапы.md",
     "Year 4/Спецификация и архитектура ПО/01. Анализ требований ТЗ и разработка спецификаций про ООП.md",
     "Year 4/Компьютерные сети/03. Связь ПК и ПК.md",
@@ -296,14 +298,12 @@
     "Year 3/Архитектура ЭВМ/00. Общая информация.md",
     "Year 4/Компьютерные сети",
     "Year 3/Архитектура ЭВМ/03..md",
-    "Year 3/Архитектура ЭВМ/02..md",
     "Year 4/Сетевые ОС",
     "Year 4/Java",
     "Year 4/Спецификация и архитектура ПО",
     "Year 4",
     "Year 1/Математический анализ/Assets/1-1_D.png",
     "Year 1/Математический анализ/Assets/1-1_area.png",
-    "Year 1/Математический анализ/Assets",
     "Year 1/Дискретная математика/Assets/2_undefined_coefficients.png",
     "Year 1/Дискретная математика/Assets/2-5_truthiness.png",
     "Year 1/Дискретная математика/Assets/2-4_truthiness.png",
