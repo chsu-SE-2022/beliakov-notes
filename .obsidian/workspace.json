@@ -41,26 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Дискретная математика/Лабораторная работа №2.md",
+                "file": "Year 3/Java/Лабораторные/5..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лабораторная работа №2"
+              "title": "5."
             }
           },
           {
-            "id": "7070db1873fd6bc4",
+            "id": "3373a8b5a7d6a43b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Базы данных/Лекции/05. Реляционная модель данных.md",
+                "file": "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Реляционная модель данных"
+              "title": "4. Текстовые файлы и исключения"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Реляционная ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Теория автоматов и формальных языков/Зачёт.md",
+                "file": "Year 4/Старостаты/01. 25.09.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Зачёт"
+              "title": "Outline of 01. 25.09.2025"
             }
           },
           {
@@ -263,54 +262,53 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7070db1873fd6bc4",
+  "active": "3373a8b5a7d6a43b",
   "lastOpenFiles": [
-    "Year 3/Базы данных/Лекции/01. Введение.md",
-    "Year 4/Компьютерные сети/04. Топология локальных сетей.md",
+    "Year 3/Java/Лабораторные/3. Абстрактные классы и интерфейсы.md",
+    "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
+    "Year 3/Java/Лабораторные/6. Многопоточная.md",
+    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144416.png",
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144331.png",
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144248.png",
+    "Year 3/Java/Лабораторные/s2_lab1/src/main/java/org/openjfx/App.java8Bn31j.bck",
+    "activation-function.png",
+    "Year 3/Разработка и анализ требований/Билеты/trpo_otvety.md",
+    "Year 3/Разработка и анализ требований/Билеты",
+    "Year 3/Искусственные нейронные сети/Билеты.md",
+    "Year 3/Искусственные нейронные сети/Assets/rnn-graph.png",
+    "Year 3/Искусственные нейронные сети/Assets/only-one-optimal.png",
+    "Year 3/Искусственные нейронные сети/Assets/neuron-structure.png",
+    "Year 3/Искусственные нейронные сети/Assets/multilayer-perceptron.png",
+    "Year 3/Искусственные нейронные сети/Assets/hierarchy.png",
+    "Year 3/Искусственные нейронные сети/Assets/gates.png",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Main.java",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Client.java",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src/main",
+    "Year 3/Java/Лабораторные/s2_lab4_client/src",
+    "Year 3/Java/Лабораторные/s2_lab4_client/pom.xml",
+    "Year 3/Java/Лабораторные/5..md",
+    "Year 3/C#/Текстовка.md",
+    "Year 3/Java/Лабораторные/2. Коллекции.md",
+    "Year 4/Сетевые ОС/01. Active Directory.md",
+    "Year 4/Сетевые ОС/02. Виртуализация.md",
+    "Year 4/Сетевые ОС/00. Введение.md",
+    "Year 4/Компьютерные сети/06. Сетевые технологии.md",
+    "Year 4/Компьютерные сети/05. Модель.md",
     "Year 3/Проектирование баз данных/04..md",
     "Year 4/Проектирование БД/00. Введение.md",
-    "Year 4/Мобильная разработка/Курсовые.md",
-    "Year 4/Мобильная разработка/00. Введение.md",
-    "Year 3/Java/Spring.md",
-    "Year 3/Java/Потоки.md",
-    "Year 4/Спецификация и архитектура ПО/02. Этапы.md",
-    "Year 4/Спецификация и архитектура ПО/01. Анализ требований ТЗ и разработка спецификаций про ООП.md",
-    "Year 4/Компьютерные сети/03. Связь ПК и ПК.md",
-    "Year 4/Компьютерные сети/01. История компьютерных сетей.md",
-    "Year 4/Компьютерные сети/02. Локальные и глобальные сети.md",
-    "Year 4/Компьютерные сети/Assets/Pasted image 20250912153238.png",
-    "Year 4/Компьютерные сети/Assets",
-    "Year 4/Сетевые ОС/02. Виртуализация.md",
-    "Year 4/Сетевые ОС/01. Active Directory.md",
-    "Year 3/Java/Многопоточность.md",
-    "Year 3/Java/Assets/Pasted image 20250911141428.png",
-    "Year 3/Java/Assets",
-    "Year 3/Java/01.Java.md",
-    "Year 3/Проектирование баз данных/03. Структурный подход к проектированию ИС.md",
-    "Year 3/Java/Наследование классов.md",
-    "Year 4/Спецификация и архитектура ПО/00. Вводная информация.md",
-    "Year 1/Дискретная математика/Лабораторная работа №2.md",
-    "Year 3/Базы данных/Лекции/11. Клиент-серверная архитектура.md",
+    "Year 4/Технология карьеры/01..md",
+    "Year 3/Java/Лабораторные/1. Простейшие классы и объекты. Пакеты.md",
+    "Year 3/Базы данных/Лекции/07. Семантическое моделирование данных.md",
+    "Year 3/Базы данных/Лекции/08. Управление транзакциями.md",
+    "Year 3/Базы данных/Лекции/05. Реляционная модель данных.md",
+    "Year 3/Базы данных/Лекции/04. Ранние подходы к организации БД.md",
+    "Year 3/Базы данных/Лекции/01. Введение.md",
+    "Year 1/Web-программирование/02. Сайты.md",
     "Year 1/Web-программирование/01. Интернет.md",
-    "Year 4/Компьютерные сети/00. Введение.md",
-    "Year 4/Проектирование БД",
-    "Year 4/Мобильная разработка",
-    "Year 3/Архитектура ЭВМ/00. Общая информация.md",
-    "Year 4/Компьютерные сети",
-    "Year 3/Архитектура ЭВМ/03..md",
-    "Year 4/Сетевые ОС",
-    "Year 4/Java",
-    "Year 4/Спецификация и архитектура ПО",
-    "Year 4",
-    "Year 1/Математический анализ/Assets/1-1_D.png",
-    "Year 1/Математический анализ/Assets/1-1_area.png",
-    "Year 1/Математический анализ/Assets",
-    "Year 1/Дискретная математика/Assets/2_undefined_coefficients.png",
-    "Year 1/Дискретная математика/Assets/2-5_truthiness.png",
-    "Year 1/Дискретная математика/Assets/2-4_truthiness.png",
-    "Year 1/Дискретная математика/Assets/2-3.2_truthiness.png",
-    "Year 1/Дискретная математика/Assets/2-3.1_truthiness.png",
-    "Year 1/Дискретная математика/Assets/2-2_truthiness.png",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]

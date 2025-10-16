@@ -42,11 +42,9 @@ public class App extends Application {
         Canvas canvas = new Canvas(600, 600);
         GraphicsContext gc = canvas.getGraphicsContext2D();
 
-        // Clear canvas with white background
         gc.setFill(Color.WHITE);
         gc.fillRect(0, 0, canvas.getWidth(), canvas.getHeight());
 
-        // Create and start picture
         Picture picture = new Picture(gc, color, offset, x, y);
         picture.start();
 
