@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Java/Лабораторные/7. Семафоры.md",
+                "file": "Year 3/Java/Лабораторные/9. Чат.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Семафоры"
+              "title": "9. Чат"
             }
           },
           {
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "06ab811a36f51238",
@@ -265,11 +264,11 @@
   },
   "active": "3373a8b5a7d6a43b",
   "lastOpenFiles": [
+    "Year 3/Java/Лабораторные/7. Семафоры.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113144212.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113143711.png",
     "Year 3/Java/Лабораторные/9. Чат.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113142127.png",
-    "Year 3/Java/Лабораторные/7. Семафоры.md",
     "Year 3/Java/Лабораторные/6. Многопоточная.md",
     "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251030150919.png",
@@ -297,7 +296,6 @@
     "Year 3/Разработка и анализ требований/Билеты",
     "Year 3/Искусственные нейронные сети/Билеты.md",
     "Year 3/Искусственные нейронные сети/Assets/rnn-graph.png",
-    "Year 3/Искусственные нейронные сети/Assets/only-one-optimal.png",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Main.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Client.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example",
