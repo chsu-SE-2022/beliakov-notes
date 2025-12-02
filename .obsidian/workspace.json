@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 4/Технология карьеры/01..md",
+                "file": "Year 3/Java/Лабораторные/8. SQL XLSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01."
+              "title": "8. SQL XLSX"
             }
           },
           {
@@ -278,6 +278,11 @@
   },
   "active": "f5612af7e19680ec",
   "lastOpenFiles": [
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251127150834.png",
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251127150304.png",
+    "Year 3/Java/Лабораторные/Assets/Pasted image 20251127145347.png",
+    "Year 4/Технология карьеры/01..md",
+    "Year 3/Java/Лабораторные/8. SQL XLSX.md",
     "Year 4/Технология карьеры/02. Резюме.md",
     "Year 3/Java/Лабораторные/7. Семафоры.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113144212.png",
@@ -299,17 +304,14 @@
     "Year 4/Старостаты/01. 25.09.2025.md",
     "Year 4/Технология карьеры/00..md",
     "Year 4/Технология карьеры/Docs/Сопроводительное письмо.md",
-    "Year 4/Технология карьеры/01..md",
     "Year 4/Технология карьеры/Docs",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144416.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144331.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144248.png",
     "Year 3/Java/Лабораторные/s2_lab1/src/main/java/org/openjfx/App.java8Bn31j.bck",
-    "activation-function.png",
     "Year 3/Разработка и анализ требований/Билеты/trpo_otvety.md",
     "Year 3/Разработка и анализ требований/Билеты",
     "Year 3/Искусственные нейронные сети/Билеты.md",
-    "Year 3/Искусственные нейронные сети/Assets/rnn-graph.png",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Main.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Client.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example",
@@ -322,7 +324,6 @@
     "Year 3/Java/Лабораторные/2. Коллекции.md",
     "Year 4/Сетевые ОС/02. Виртуализация.md",
     "Year 4/Сетевые ОС/00. Введение.md",
-    "Year 3/Проектирование баз данных/04..md",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]
