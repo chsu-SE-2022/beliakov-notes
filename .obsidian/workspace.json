@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "0148fbf6607600aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/Мат. методы решения задач ИИ/Курсовая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Курсовая"
+            }
+          },
+          {
             "id": "df12c60409ec8d49",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "триггер",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,8 +290,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f5612af7e19680ec",
+  "active": "0148fbf6607600aa",
   "lastOpenFiles": [
+    "Year 2/Микроэлектроника и схемотехника/Лекции/03. Логические элементы.md",
+    "Year 2/Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251127150834.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251127150304.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251127145347.png",
@@ -307,7 +323,6 @@
     "Year 4/Технология карьеры/Docs",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144416.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144331.png",
-    "Year 3/Java/Лабораторные/Assets/Pasted image 20251016144248.png",
     "Year 3/Java/Лабораторные/s2_lab1/src/main/java/org/openjfx/App.java8Bn31j.bck",
     "Year 3/Разработка и анализ требований/Билеты/trpo_otvety.md",
     "Year 3/Разработка и анализ требований/Билеты",
@@ -323,7 +338,6 @@
     "Year 3/C#/Текстовка.md",
     "Year 3/Java/Лабораторные/2. Коллекции.md",
     "Year 4/Сетевые ОС/02. Виртуализация.md",
-    "Year 4/Сетевые ОС/00. Введение.md",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]
