@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "d9f72763d4f8b9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/Java/Лабораторные/8. SQL XLSX.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. SQL XLSX"
+            }
+          },
+          {
             "id": "df12c60409ec8d49",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -290,8 +304,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0148fbf6607600aa",
+  "active": "d9f72763d4f8b9ea",
   "lastOpenFiles": [
+    "Year 3/Java/Лабораторные/7. Семафоры.md",
+    "Year 3/Java/Лабораторные/9. Чат.md",
+    "Year 3/Java/Лабораторные/2. Коллекции.md",
+    "Year 3/Java/Лабораторные/8. SQL XLSX.md",
+    "Year 3/Java/Лабораторные/6. Многопоточная.md",
+    "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
+    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 3/Мат. методы решения задач ИИ/Курсовая.md",
     "Year 2/Микроэлектроника и схемотехника/Лекции/03. Логические элементы.md",
     "Year 2/Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
@@ -299,18 +320,12 @@
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251127150304.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251127145347.png",
     "Year 4/Технология карьеры/01..md",
-    "Year 3/Java/Лабораторные/8. SQL XLSX.md",
     "Year 4/Технология карьеры/02. Резюме.md",
-    "Year 3/Java/Лабораторные/7. Семафоры.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113144212.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113143711.png",
-    "Year 3/Java/Лабораторные/9. Чат.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251113142127.png",
-    "Year 3/Java/Лабораторные/6. Многопоточная.md",
-    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251030150919.png",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20251030150841.png",
-    "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
     "Year 3/Java/Лабораторные/3. Абстрактные классы и интерфейсы.md",
     "Year 4/Компьютерные сети/02. Локальные и глобальные сети.md",
     "Year 4/Компьютерные сети/03. Связь ПК и ПК.md",
@@ -337,7 +352,6 @@
     "Year 3/Java/Лабораторные/s2_lab4_client/src",
     "Year 3/Java/Лабораторные/5..md",
     "Year 3/C#/Текстовка.md",
-    "Year 3/Java/Лабораторные/2. Коллекции.md",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]
