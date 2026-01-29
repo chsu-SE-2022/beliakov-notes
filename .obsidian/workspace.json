@@ -8,73 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a994de5eb0994316",
+            "id": "d9f72763d4f8b9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Старостаты/25-04-23.md",
-                "mode": "source",
+                "file": "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-04-23"
-            }
-          },
-          {
-            "id": "b791cfd7ee15e4dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Дискретная математика/05. Полином Жегалкина.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05. Полином Жегалкина"
-            }
-          },
-          {
-            "id": "2d63c50e829894b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Java/Лабораторные/5..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5."
-            }
-          },
-          {
-            "id": "3373a8b5a7d6a43b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Java/Лабораторные/9. Чат.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Чат"
-            }
-          },
-          {
-            "id": "f5612af7e19680ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Java/Лабораторные/8. SQL XLSX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. SQL XLSX"
+              "title": "5. Бинарные файлы"
             }
           },
           {
@@ -90,37 +34,8 @@
               "icon": "lucide-file",
               "title": "8. SQL XLSX"
             }
-          },
-          {
-            "id": "d9f72763d4f8b9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Бинарные файлы"
-            }
-          },
-          {
-            "id": "df12c60409ec8d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Базы данных/Лекции/11. Клиент-серверная архитектура.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Клиент-серверная архитектура"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,10 +221,10 @@
   },
   "active": "d9f72763d4f8b9ea",
   "lastOpenFiles": [
-    "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
     "Year 3/Java/Лабораторные/3. Абстрактные классы и интерфейсы.md",
-    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 3/Java/Лабораторные/8. SQL XLSX.md",
+    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
+    "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20260127173814.png",
     "Year 3/Java/Лабораторные/9. Чат.md",
     "Year 3/Java/Лабораторные/6. Многопоточная.md",
