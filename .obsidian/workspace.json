@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 4/Управление программными проектами/0. Вступление.md",
+                "file": "Year 4/Компонентное программирование/0. Вступление.md",
                 "mode": "source",
                 "source": false
               },
@@ -221,8 +221,10 @@
   },
   "active": "d9f72763d4f8b9ea",
   "lastOpenFiles": [
-    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 4/Управление программными проектами/0. Вступление.md",
+    "Year 4/Компонентное программирование/0. Вступление.md",
+    "Year 4/Компонентное программирование",
+    "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 4/Управление программными проектами",
     "Year 3/Java/Лабораторные/3. Абстрактные классы и интерфейсы.md",
     "Year 3/Java/Лабораторные/8. SQL XLSX.md",
@@ -265,8 +267,6 @@
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java",
-    "Year 3/Java/Лабораторные/s2_lab4_client/src/main",
-    "Year 3/Java/Лабораторные/5..md",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]
