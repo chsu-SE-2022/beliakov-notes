@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 4/Компонентное программирование/0. Вступление.md",
+                "file": "Year 4/Администрирование баз данных/0. Вступление.md",
                 "mode": "source",
                 "source": false
               },
@@ -221,13 +221,15 @@
   },
   "active": "d9f72763d4f8b9ea",
   "lastOpenFiles": [
-    "Year 4/Управление программными проектами/0. Вступление.md",
+    "Year 3/Java/Лабораторные/8. SQL XLSX.md",
+    "Year 4/Администрирование баз данных/0. Вступление.md",
     "Year 4/Компонентное программирование/0. Вступление.md",
+    "Year 4/Администрирование баз данных",
+    "Year 4/Управление программными проектами/0. Вступление.md",
     "Year 4/Компонентное программирование",
     "Year 3/Java/Лабораторные/5. Бинарные файлы.md",
     "Year 4/Управление программными проектами",
     "Year 3/Java/Лабораторные/3. Абстрактные классы и интерфейсы.md",
-    "Year 3/Java/Лабораторные/8. SQL XLSX.md",
     "Year 3/Java/Лабораторные/4. Текстовые файлы и исключения.md",
     "Year 3/Java/Лабораторные/Assets/Pasted image 20260127173814.png",
     "Year 3/Java/Лабораторные/9. Чат.md",
@@ -261,12 +263,10 @@
     "Year 3/Java/Лабораторные/s2_lab1/src/main/java/org/openjfx/App.java8Bn31j.bck",
     "Year 3/Разработка и анализ требований/Билеты/trpo_otvety.md",
     "Year 3/Разработка и анализ требований/Билеты",
-    "Year 3/Искусственные нейронные сети/Билеты.md",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Main.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example/Client.java",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org/example",
     "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java/org",
-    "Year 3/Java/Лабораторные/s2_lab4_client/src/main/java",
     "Теория автоматов и формальных языков/Untitled.canvas",
     "Дискретная математика/Untitled.canvas"
   ]
