@@ -41,5 +41,9 @@
   "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-mauve",
   "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-blue",
   "anuppuccin-theme-settings@@anp-preview-width-pct": 80,
-  "anuppuccin-theme-settings@@file-line-width": 1000
+  "anuppuccin-theme-settings@@file-line-width": 1000,
+  "everforest-enchanted-theme@@background-image-enabled": false,
+  "everforest-enchanted-theme@@background-image-pane-view": false,
+  "everforest-enchanted-theme@@pane-opacity": 0.85,
+  "everforest-enchanted-theme@@visual-parity-enabled": false
 }
